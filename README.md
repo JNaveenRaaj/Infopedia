@@ -18,4 +18,4 @@ Profile Page
 
 Friends Profile
 
-![Welcome to Service Now (RA2011032010026)](https://github.com/JNaveenRaaj/Infopedia/assets/95143158/fa61e0b0-5b88-41dc-9b8f-a27c6882d1ab)
+![Screenshot 2023-12-03 215804](https://github.com/JNaveenRaaj/Infopedia/assets/95143158/48c1e25d-9c73-4005-91d7-6bf5682a5e5f)
